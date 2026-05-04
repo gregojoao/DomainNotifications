@@ -2,6 +2,8 @@
 
 [![.NET](https://img.shields.io/badge/.NET-10.0-512BD4?logo=dotnet)](https://dotnet.microsoft.com/)
 [![NuGet](https://img.shields.io/nuget/v/DomainNotifications.svg)](https://www.nuget.org/packages/DomainNotifications/)
+[![NuGet Downloads](https://img.shields.io/nuget/dt/DomainNotifications.svg)](https://www.nuget.org/packages/DomainNotifications/)
+[![Build and Test](https://github.com/grecojoao/DomainNotifications/actions/workflows/build-and-test.yml/badge.svg)](https://github.com/grecojoao/DomainNotifications/actions/workflows/build-and-test.yml)
 [![License](https://img.shields.io/github/license/grecojoao/DomainNotifications)](LICENSE)
 
 A lightweight and elegant implementation of the Domain Notification design pattern for .NET applications. Simplify validation and error handling in your domain layer with a clean, fluent API.
