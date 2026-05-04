@@ -4,8 +4,8 @@ namespace DomainNotifications.Examples.HowToUse.Models
 {
     class Customer : Notifiable
     {
-        public string Name { get; set; }
-        public string Surname { get; set; }
+        public string? Name { get; set; }
+        public string? Surname { get; set; }
 
         public Customer() { }
 
