@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "H:\\Dev\\DomainNotifications\\tests\\DomainNotifications.Tests\\DomainNotifications.Tests.csproj": {}
+    "h:\\Dev\\DomainNotifications\\tests\\DomainNotifications.Tests\\DomainNotifications.Tests.csproj": {}
   },
   "projects": {
     "H:\\Dev\\DomainNotifications\\src\\DomainNotifications\\DomainNotifications.csproj": {
@@ -344,14 +344,14 @@
         }
       }
     },
-    "H:\\Dev\\DomainNotifications\\tests\\DomainNotifications.Tests\\DomainNotifications.Tests.csproj": {
+    "h:\\Dev\\DomainNotifications\\tests\\DomainNotifications.Tests\\DomainNotifications.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\Dev\\DomainNotifications\\tests\\DomainNotifications.Tests\\DomainNotifications.Tests.csproj",
+        "projectUniqueName": "h:\\Dev\\DomainNotifications\\tests\\DomainNotifications.Tests\\DomainNotifications.Tests.csproj",
         "projectName": "DomainNotifications.Tests",
-        "projectPath": "H:\\Dev\\DomainNotifications\\tests\\DomainNotifications.Tests\\DomainNotifications.Tests.csproj",
+        "projectPath": "h:\\Dev\\DomainNotifications\\tests\\DomainNotifications.Tests\\DomainNotifications.Tests.csproj",
         "packagesPath": "C:\\Users\\Joao Greco\\.nuget\\packages\\",
-        "outputPath": "H:\\Dev\\DomainNotifications\\tests\\DomainNotifications.Tests\\obj\\",
+        "outputPath": "h:\\Dev\\DomainNotifications\\tests\\DomainNotifications.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

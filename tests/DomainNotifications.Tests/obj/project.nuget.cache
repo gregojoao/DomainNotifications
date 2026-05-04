@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YxEs9xP0eUo=",
+  "dgSpecHash": "w3ElsMziGAs=",
   "success": true,
-  "projectFilePath": "H:\\Dev\\DomainNotifications\\tests\\DomainNotifications.Tests\\DomainNotifications.Tests.csproj",
+  "projectFilePath": "h:\\Dev\\DomainNotifications\\tests\\DomainNotifications.Tests\\DomainNotifications.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Joao Greco\\.nuget\\packages\\coverlet.collector\\6.0.3\\coverlet.collector.6.0.3.nupkg.sha512",
     "C:\\Users\\Joao Greco\\.nuget\\packages\\fluentassertions\\7.0.0\\fluentassertions.7.0.0.nupkg.sha512",
