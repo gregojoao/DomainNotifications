@@ -1,18 +1,18 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>net8.0</TargetFramework>
+    <TargetFramework>net10.0</TargetFramework>
     <PackageId>DomainNotifications</PackageId>
-    <Version>2.0.0</Version>
+    <Version>3.0.0</Version>
     <Authors>João Greco</Authors>
-    <Company>grecojoao</Company>
+    <Company>Greco Labs</Company>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
-    <AssemblyVersion>2.0.0.0</AssemblyVersion>
-    <FileVersion>2.0.0.0</FileVersion>
+    <AssemblyVersion>3.0.0.0</AssemblyVersion>
+    <FileVersion>3.0.0.0</FileVersion>
     <RepositoryUrl>https://github.com/grecojoao/DomainNotifications</RepositoryUrl>
     <Description>Easily use the Domain Notification design pattern.</Description>
     <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
-    <PackageReleaseNotes>Updated to .NET 8.0 LTS with improved performance and modern C# features.</PackageReleaseNotes>
+    <PackageReleaseNotes>Updated to .NET 10 with latest performance improvements and modern C# features.</PackageReleaseNotes>
     <LangVersion>latest</LangVersion>
     <Nullable>enable</Nullable>
   </PropertyGroup>
